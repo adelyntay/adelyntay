@@ -5,8 +5,7 @@
 - 👋 Hi, I’m Adelyn!
 - 🌱 I’m currently just starting out in this field. 
 - 💞️ I’m looking to collaborate on any project just to gain more experience and knowledge. 
-- 🎮 Aside from coding, I also love anime and playing games.
-- I believe that connecting with others over shared interests is a great way to build r/s and foster collaboration.
+
 <div id="badges">
   <a href="www.linkedin.com/in/t-adelyn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
