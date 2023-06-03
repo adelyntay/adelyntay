@@ -7,7 +7,6 @@
 - 💞️ I’m looking to collaborate on any project just to gain more experience and knowledge. 
 
 <div id="badges">
-  <a href="www.linkedin.com/in/t-adelyn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <br>
