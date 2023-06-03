@@ -6,10 +6,6 @@
 - 🌱 I’m currently just starting out in this field. 
 - 💞️ I’m looking to collaborate on any project just to gain more experience and knowledge. 
 
-<div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<br>
 <img src="https://komarev.com/ghpvc/?username=adelyntay&style=flat-square&color=blue" alt=""/>
 
 ---
